@@ -1,0 +1,42 @@
+{
+  "businessName": "Floxy Clothings and Accessories",
+  "industry": "Fashion and Creative Design",
+  "tone": "stylish and inviting",
+  "tagline": "Where Style Meets Creativity in Benin City",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Floxy Clothings and Accessories - Benin City's premier destination for fashion-forward clothing and unique accessories. We bring your style vision to life with our curated collection and bespoke creative designs. From everyday elegance to statement pieces, discover fashion that speaks your language.",
+      "imagePrompt": "Photorealistic upscale Nigerian fashion boutique interior in Benin City, elegant clothing displays with colorful African prints and contemporary Western styles, warm ambient lighting, modern minimalist racks showcasing dresses and accessories, polished concrete floors, large windows with natural light, sophisticated retail space",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Floxy Clothings and Accessories is your trusted fashion partner in the heart of Benin City's GRA. We specialize in providing quality clothing and accessories that blend contemporary trends with timeless elegance. Our creative design services allow you to express your unique personality through custom pieces tailored to your preferences. Whether you're looking for ready-to-wear fashion or bespoke creations, our team is dedicated to helping you look and feel your absolute best. Visit us at 36, Oni Street Off Ihama Road, GRA, and experience fashion retail that understands the modern Nigerian woman and man.",
+      "imagePrompt": "Warm inviting Nigerian fashion store atmosphere, friendly Nigerian fashion consultant helping a customer, diverse clothing options on elegant displays, African print fabrics alongside modern designs, bright natural lighting, contemporary boutique interior in Benin City GRA neighborhood, professional yet welcoming ambiance",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At Floxy Clothings and Accessories, we offer a comprehensive range of fashion services designed to meet all your style needs:\n\n**Ready-to-Wear Collections** - Carefully curated clothing for men and women featuring the latest trends and timeless classics. From casual wear to corporate attire, find pieces that fit your lifestyle.\n\n**Fashion Accessories** - Complete your look with our selection of bags, jewelry, scarves, belts, and more. Every accessory is chosen to add that perfect finishing touch.\n\n**Creative Design Services** - Bring your fashion ideas to life with our bespoke design service. We work closely with you to create custom pieces that reflect your personal style and fit perfectly.\n\n**Style Consultation** - Not sure what works for you? Our experienced team provides personalized styling advice to help you discover looks that enhance your natural beauty and confidence.\n\n**Personal Shopping** - Let us curate a wardrobe that matches your taste, occasion, and budget. We make shopping effortless and enjoyable.",
+      "imagePrompt": "Professional photorealistic collage showing Nigerian fashion services: elegant clothing racks with diverse styles, colorful fashion accessories artfully arranged, tailor measuring fabric for custom design, style consultation session, modern boutique setting in Benin City, vibrant yet sophisticated atmosphere",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us",
+      "copy": "Ready to elevate your wardrobe? Visit Floxy Clothings and Accessories today or get in touch with us. We're conveniently located in Benin City's GRA and always excited to help you discover your perfect style.\n\n**Store Address:**\n36, Oni Street Off Ihama Road\nGRA, Benin City\nOredo, Edo State, Nigeria\n\n**Phone:** 0703 283 5251\n\n**Opening Hours:**\nMonday - Saturday: 9:00 AM - 7:00 PM\nSunday: 12:00 PM - 5:00 PM\n\nWhatsApp us for quick inquiries, style tips, or to book a personal consultation. Follow us on social media to stay updated on new arrivals, special promotions, and fashion inspiration. We look forward to serving you!",
+      "imagePrompt": "Photorealistic storefront of upscale Nigerian fashion boutique on a clean GRA street in Benin City, modern signage reading 'Floxy Clothings and Accessories', large glass windows displaying elegant mannequins, welcoming entrance, well-maintained street with tropical plants, professional retail exterior, daytime natural lighting",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0703 283 5251",
+    "email": "",
+    "address": "36, Oni Street Off Ihama Road, GRA, Benin City, Oredo, Edo State, Nigeria",
+    "whatsapp": "https://wa.me/2347032835251"
+  }
+}
